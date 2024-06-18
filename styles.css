@@ -1,0 +1,48 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#hero {
+    background: url('hero-background.jpg') no-repeat center center/cover;
+    height: 100vh;
+    color: #fff;
+}
+
+section {
+    padding: 60px 0;
+}
+
+#about img {
+    width: 100%;
+    max-width: 250px;
+    margin-bottom: 20px;
+}
+
+#skills .skill-box {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#skills .skill-box i {
+    color: #007bff;
+}
+
+.card {
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+footer p {
+    margin: 0;
+}
